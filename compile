@@ -1,0 +1,1 @@
+gcc -g -Wall -Werror -std=c99 -o "nglc3asm" "main.c" "parse.c" "symbol.c" "assemble.c" "instruction.c" "generate_instruction.c"
